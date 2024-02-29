@@ -25,10 +25,10 @@ class methods{
 }
 public class method1 {
     public static void main(String[] args) {
-        methods s=new methods();  
-        s.add();
-        s.sub();
-        s.mul();
-        s.div();
+        methods c=new methods();
+        c.add();
+        c.sub();
+        c.mul();
+        c. div();
     }
 }
