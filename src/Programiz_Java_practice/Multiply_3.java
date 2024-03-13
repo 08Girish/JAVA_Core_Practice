@@ -4,7 +4,7 @@ package Programiz_Java_practice;
 
 import java.util.Scanner;
 
-public class Multiply {
+public class Multiply_3 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter two float numbers : ");

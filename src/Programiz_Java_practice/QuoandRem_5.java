@@ -1,9 +1,8 @@
 package Programiz_Java_practice;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class QuoandRem {
+public class QuoandRem_5 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the Divident : ");
